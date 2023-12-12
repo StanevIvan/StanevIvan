@@ -13,6 +13,14 @@ I am a passionate and results-driven individual with a keen interest in Python p
 - Python Web Developmenr Proffessional Module in SoftUni
 - Bachelor of Dental Medicine, Medical University of Sofia
 
+## Certification
+
+My latest certifications:
+
+- [Certificate 1](https://softuni.bg/users/profile/certificates?username=IvanSt9)
+- [Certificate 2](https://softuni.bg/users/profile/certificates?username=IvanSt9)
+- [Certificate 3](https://softuni.bg/users/profile/certificates?username=IvanSt9)
+
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/ivan-stanev-b686ab255/
