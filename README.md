@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello, I'm Ivan Stanev! 👋
 
-<!--
-**StanevIvan/StanevIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a passionate and results-driven individual with a keen interest in Python programming, web development, and data science. I am part of the SoftUni Proffessional Modules - Python Web Development. Currently, I am enrolled in a Python Web course to further enhance my skills and knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on web project which is called Coin-Sage - https://github.com/Coin-Sage/coin_sage_web_project
+- 🌱 I’m currently learning and exploring Python, Web Development, and Data Science.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about Python, Web Development, or anything related to Data Science.
+
+## Education
+- Python Web Developmenr Proffessional Module in SoftUni
+- Bachelor of Dental Medicine, Medical University of Sofia
+
+## GitHub Stats
+
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanevIvan&show_icons=true&theme=radical)](https://github.com/StanevIvan)
+
+## Top Technologies
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanevIvan&layout=compact)](https://github.com/StanevIvan)
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/ivan-stanev-b686ab255/
+- Email: ivan.gstanev98@gmail.com
+
+## Projects
+
+- Project 1: VM automation - https://github.com/StanevIvan/test-vm-automation
+- Project 2: WeatherApp - https://github.com/StanevIvan/weather-app
+- Project 3: Coin Sage - https://github.com/Coin-Sage/coin_sage_web_project (in progress)
+
+Feel free to explore my repositories and provide feedback. Let's connect and collaborate on exciting projects!
