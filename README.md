@@ -10,8 +10,8 @@ I am a passionate and results-driven individual with a keen interest in Python p
 - 💬 Ask me about Python, Web Development, or anything related to Data Science.
 
 ## Education
-- Python Web Developmenr Proffessional Module in SoftUni
-- Bachelor of Dental Medicine, Medical University of Sofia
+- Python Web Developmenr Proffessional Module in SoftUni - 2022 - present
+- Bachelor of Dental Medicine, Medical University of Sofia - 2017 - 2022
 
 ## Certification
 
