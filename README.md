@@ -17,9 +17,9 @@ I am a passionate and results-driven individual with a keen interest in Python p
 
 My latest certifications:
 
-- [[Certificate 1](https://softuni.bg/users/profile/certificates?username=IvanSt9)](https://softuni.bg/certificates/details/183140/f554374f)
-- [[Certificate 2](https://softuni.bg/users/profile/certificates?username=IvanSt9)](https://softuni.bg/certificates/details/185954/c9d7e851)
-- [[Certificate 3](https://softuni.bg/users/profile/certificates?username=IvanSt9)](https://softuni.bg/certificates/details/193905/03c6dd25)
+- [[Certificate 1](https://softuni.bg/certificates/details/183140/f554374f)]
+- [[Certificate 2](https://softuni.bg/certificates/details/185954/c9d7e851)]
+- [[Certificate 3](https://softuni.bg/certificates/details/193905/03c6dd25)]
 
 ## Connect with Me
 
