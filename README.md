@@ -13,14 +13,6 @@ I am a passionate and results-driven individual with a keen interest in Python p
 - Python Web Developmenr Proffessional Module in SoftUni
 - Bachelor of Dental Medicine, Medical University of Sofia
 
-## GitHub Stats
-
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanevIvan&show_icons=true&theme=radical)](https://github.com/StanevIvan)
-
-## Top Technologies
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanevIvan&layout=compact)](https://github.com/StanevIvan)
-
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/ivan-stanev-b686ab255/
