@@ -11,7 +11,7 @@ I am a passionate and results-driven individual with a keen interest in Python p
 
 ## Education
 - Python Web Developmenr Proffessional Module in SoftUni (2022 - present)
-- Bachelor of Dental Medicine, Medical University of Sofia (2017 - 2022)
+- Master's Degree of Dental Medicine, Medical University of Sofia (2017 - 2022, 5/6 years done)
 
 ## Certification
 
