@@ -10,17 +10,13 @@ I am a passionate and results-driven individual with a keen interest in Python p
 - 💬 Ask me about Python, Web Development, or anything related to Data Science.
 
 ## Education
-- Python Web Developmenr Proffessional Module in SoftUni (2022 - present)
+- Python Web Developmenr Proffessional Module in SoftUni (2022 - 2024)
 - Master's Degree of Dental Medicine, Medical University of Sofia (2017 - 2022, 5/6 years done)
 
-## Certification
-
-My latest certifications:
-
-- [[Certificate 1](https://softuni.bg/certificates/details/183140/f554374f)]
-- [[Certificate 2](https://softuni.bg/certificates/details/185954/c9d7e851)]
-- [[Certificate 3](https://softuni.bg/certificates/details/193905/03c6dd25)]
-
+## Work Experience
+- IBM Python Developer Intern (2024 - 2024)
+- IBM z/OS Software Technical Support (2025 - present)
+  
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/ivan-stanev-b686ab255/
@@ -29,7 +25,7 @@ My latest certifications:
 ## Projects
 
 - Project 1: VM automation - https://github.com/StanevIvan/test-vm-automation
-- Project 2: WeatherApp - https://github.com/StanevIvan/weather-app
+- Project 2: ML models - https://github.com/StanevIvan/ml-testing (1 completed)
 - Project 3: Coin Sage - https://github.com/Coin-Sage/CoinSage (in progress)
-
+- Project 4: WeatherApp - https://github.com/StanevIvan/weather-app
 Feel free to explore my repositories and provide feedback. Let's connect and collaborate on exciting projects!
